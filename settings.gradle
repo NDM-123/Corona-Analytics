@@ -1,0 +1,3 @@
+rootProject.name='CoronaAnalytics'
+include ':app'
+include ':openCVLibrary3410'
