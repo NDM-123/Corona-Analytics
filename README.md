@@ -2,6 +2,8 @@
 
 This app was made to identify faces of people and in the future ill add the option to compare between faces and if there will be a match the sqaure will change in to green,ive also added an option to work with mySql Data base for maybe future purposes.
 
+The name CoronaAnalytics came from a Hackathon i competed in,trying to find a solution for Covid-19 virus. 
+
 A few problems needs taking care of:
 1)The user needs to grant camera permission to the app.
 2)The app works at best only when phone is rotated horizontally.
